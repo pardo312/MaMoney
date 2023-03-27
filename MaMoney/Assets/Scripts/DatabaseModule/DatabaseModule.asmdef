@@ -1,0 +1,16 @@
+{
+    "name": "DatabaseModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e25b00285961bc147bb970bf41049971"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
